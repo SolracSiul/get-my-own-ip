@@ -9,9 +9,9 @@ A straightforward library designed to streamline automated access to the user's 
 
 GetIP uses a simple Stack:
 
-- [NodeJS] - HTML enhanced for web apps!
-- [Typescript] - awesome web-based text editor
-- [child_process] - Markdown parser done right. Fast and easy to extend.
+- [NodeJS] - Efficient server-side JavaScript runtime for building scalable web applications.
+- [Typescript] - superset of JavaScript
+- [child_process] - Reliable module for executing external processes in Node.js, 
 
 ## Installation
 Install the dependencies and devDependencies and start the server.

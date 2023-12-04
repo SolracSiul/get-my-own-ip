@@ -1,6 +1,6 @@
 {
   "name": "get-my-own-ip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A straightforward library designed to streamline automated access to the user's local IP.\r ## Features",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
